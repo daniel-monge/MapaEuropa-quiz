@@ -2,7 +2,7 @@
   "name": "Mapa Europa — Quiz de Geografía",
   "short_name": "MapaEuropa",
   "description": "Aprende los países de Europa y sus capitales",
-  "start_url": "/",
+  "start_url": "/MapaEuropa-quiz/",
   "display": "standalone",
   "background_color": "#f4f4f5",
   "theme_color": "#18181b",
